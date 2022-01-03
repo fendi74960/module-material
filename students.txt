@@ -1,2 +1,5 @@
 first name ; last name ; github login
+Arthur ; Bajt ; ArthurBajt
 Killian ; Carrillo ; fendi74960
+
+
